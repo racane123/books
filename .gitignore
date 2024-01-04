@@ -1,2 +1,6 @@
 /db.sqlite3
 /myworld
+
+.DS_Store
+/node_modules
+/dist
